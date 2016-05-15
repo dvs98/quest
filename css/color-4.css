@@ -1,0 +1,101 @@
+.navbar{
+	border-bottom:4px solid #000000;
+}
+
+.nav > li > a:hover {
+    background-color: #000000;
+}
+
+.nav > li.current a{
+    background-color: #000000;	
+}
+
+.slider_title{
+	border-left:2px #ff8000 solid;
+}
+
+#pageLoad{
+	background:url(../images/circle4.png);
+}
+
+.top_btn{
+	background:#ff8000;
+}
+
+.heading span{
+	color: #000000;
+}
+
+.welcome_txt span{
+	background: #000000;
+}
+
+.b1, .b3, .b22{
+	background:#ff8000;
+}
+
+.publication .fa{
+	color:#ff8000;
+}
+
+.publication h5{
+	color:#ff8000;
+}
+
+.education .fa{
+	color:#ff8000;
+}
+
+#myTab1.nav-tabs > li.active > a, #myTab1.nav-tabs > li.active > a:hover, 
+#myTab1.nav-tabs > li.active > a:focus, #myTab1.nav-tabs > li > a:hover, 
+#myTab1.nav-tabs > li > a:focus{
+	background:#ff8000;
+}
+
+.how_can_you_help{
+	background:#ff8000;
+}
+
+.act .fa{
+	color:#ff8000;
+}
+
+.carousel-indicators .active{
+	background:#ff8000;
+}
+
+.btn-danger {
+    background-color: #ff8000;
+}
+
+#signup .button{
+	background:#ff8000;
+}
+
+.recent_news h4{
+	color:#000000;
+}
+
+p.readmore a{
+	color:#ff8000;
+}
+
+.team a:hover .fa{
+	color:#ff8000;
+}
+
+.tt-grid-wrapper nav a.tt-current {
+	background:#ff8000;
+}
+
+.stories .bx-wrapper .bx-pager.bx-default-pager a.active, .stories .bx-wrapper .bx-pager.bx-default-pager a:hover{
+	background:#ffffff;	
+}
+
+.contact{
+	background:#ff8000;
+}
+
+.footer{
+	background:#ff8000;
+}
